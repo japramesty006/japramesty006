@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jasmine 👩‍💻
 
+Aspiring Data Scientist and avid learner in Computer Science. Passionate about extracting insights from data and building meaningful solutions. Constantly exploring the fascinating world of data science and machine learning. Let's connect and collaborate!
 <!--
 **japramesty006/japramesty006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
